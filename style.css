@@ -18,6 +18,10 @@ ul{
   list-style: none;
 }
 
+i{
+  margin-right: 0.4rem;
+}
+
 /* --- Custom Properties --- */
 :root {
   --dark: #111;
