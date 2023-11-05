@@ -138,3 +138,9 @@ header{
     margin: 2rem 0;
   }
 }
+
+@media(max-width: 600px){
+  .content{
+    margin: 0;
+  }
+}
